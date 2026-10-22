@@ -1,6 +1,7 @@
 # Aventura Java
 
 Jogo de terminal que ensina Java do zero ao intermediário. Requer **JDK 17+**.
+
 Comando para JDK 17+: **winget install EclipseAdoptium.Temurin.21.JDK**
 
 ## Como rodar
